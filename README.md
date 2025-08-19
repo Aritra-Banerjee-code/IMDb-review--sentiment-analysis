@@ -2,7 +2,7 @@
 This project performs sentiment analysis on the IMDb movie reviews dataset (LMST) to classify reviews as positive or negative.
 It leverages Natural Language Processing (NLP) techniques and machine learning/deep learning models to understand the sentiment expressed in text reviews.
 
-#🚀 Features
+# 🚀 Features
 
 Preprocessing of IMDb reviews (tokenization, stopword removal, padding, etc.)
 
@@ -18,7 +18,7 @@ Visualization of training curves and word distributions
 
 Support for custom review predictions
 
-#📂 Dataset
+# 📂 Dataset
 
 The project uses the IMDb Large Movie Review Dataset (LMST) containing:
 
@@ -26,7 +26,7 @@ The project uses the IMDb Large Movie Review Dataset (LMST) containing:
 
 Balanced dataset for binary sentiment classification
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python (NumPy, Pandas, Matplotlib, Seaborn)
 
@@ -36,7 +36,7 @@ Deep Learning: TensorFlow / PyTorch
 
 Machine Learning: Scikit-learn
 
-#📊 Results
+# 📊 Results
 
 Achieved up to ~90% accuracy using an LSTM-based deep learning model.
 
